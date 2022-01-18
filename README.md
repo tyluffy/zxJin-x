@@ -9,6 +9,7 @@
   - [pulsar-huawei-obs-connector](https://github.com/streamnative/pulsar-io-huawei-obs-connector)
   - [logstash-input-pulsar](https://github.com/streamnative/logstash-input-pulsar)
   - [logstash-output-pulsar](https://github.com/streamnative/logstash-output-pulsar)
+  - [mqtt-go-pulsar](https://github.com/paashzj/mqtt_go_pulsar)
 
 
 [![ZhiXin Jin's Github stats](https://github-readme-stats.vercel.app/api?username=zxJin-x&include_all_commits=true&count_private=true&theme=cobalt)](https://github.com/zxJin-x)
